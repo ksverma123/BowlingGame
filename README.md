@@ -37,7 +37,7 @@ This project implements a Bowling Game score calculator in C++. The program take
 
 3. Enter bowling input:
     ```
-    Enter bowling scores ( X is strike, / is spare ): X7/9-X-88/-6XXX81
+    Enter bowling scores ( X is strike, / is spare ): X7/90X088/06XXX81
     ```
 
 ---
