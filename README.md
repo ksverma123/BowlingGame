@@ -26,18 +26,21 @@ This project implements a Bowling Game score calculator in C++. The program take
 ## Getting Started
 
 1. Compile the code:
-    ```bash
+    bash
     g++ BowlingGame.cpp -o bowling
-    ```
+    
 
 2. Run the application:
-    ```bash
+    bash
     ./bowling
-    ```
 
-3. Enter bowling input:
-    ```
-    Enter bowling scores ( X is strike, / is spare ): X7/90X088/06XXX81
-    ```
+3. Enter selection (Manual Input / unit test):
+  Enter number for Manual inputs or run Default unit tests?
+[1]. Manual input  
+[2].Unit tests
+1  
+  
+7. Enter bowling scores ( X is strike, / is spare ): X7/90X088/06XXX81
+    
 
 ---
